@@ -1,0 +1,2 @@
+print('hhh')
+type(hhh)
